@@ -98,9 +98,10 @@ Resposta curta: [http://aprenda-python.blogspot.com.br/2014/02/o-que-voce-sugere
 
 *Resposta curta:* Não é por causa da cobra, é pelo grupo de comédia Monty Python.
 
-“Pode me recomendar livros para estudar?*
+“Pode me recomendar livros para estudar?
 --------------------------
 
+*Resposta curta:* É claro. Olhe o arquivo livros.md
 
 “Não sou programador e vou estudar Python, consigo um emprego?”
 --------------------------
@@ -108,5 +109,3 @@ Resposta curta: [http://aprenda-python.blogspot.com.br/2014/02/o-que-voce-sugere
 
 “Preciso saber usar Github para aprender Python?”
 --------------------------
-
-
