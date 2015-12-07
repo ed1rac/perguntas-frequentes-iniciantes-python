@@ -109,3 +109,16 @@ Resposta curta: [http://aprenda-python.blogspot.com.br/2014/02/o-que-voce-sugere
 
 “Preciso saber usar Github para aprender Python?”
 --------------------------
+
+
+"Tem como programar para Web com Python?"
+--------------------------
+
+*Resposta curta:* Sim
+
+*Resposta longa:* Você pode tanto fazer isso na ["mão"](http://www.devmedia.com.br/introducao-ao-desenvolvimento-web-com-python/6552), quanto recorrer a algum framework. Para a segunda opção segue uma lista deles:
+ - [Django](https://www.djangoproject.com/);
+ - [Flask](http://flask.pocoo.org/);
+ - [Web2py](http://www.web2py.com/);
+ - [Bottle](http://bottlepy.org/docs/dev/index.html);
+ - [Entre outros](https://wiki.python.org/moin/WebFrameworks).
