@@ -105,7 +105,7 @@ Resposta curta: [http://aprenda-python.blogspot.com.br/2014/02/o-que-voce-sugere
 
 *Resposta longa:* O Python funciona bem tanto em Mac OS, Linux e Windows, não se preocupe.
 
-"Pra quem está iniciando, é melhor usar qual versão do Python?"
+“Pra quem está iniciando, é melhor usar qual versão do Python?”
 ---------------------------------------------------------------
 
 *Resposta curta:* Python 3.x
