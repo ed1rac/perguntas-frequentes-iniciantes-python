@@ -2,6 +2,25 @@
 
 Diariamente encontramos perguntas frequentes em fóruns e listas de discussões, como “Qual IDE é a melhor?”, “Quais são as fontes de estudo que temos sobre Python?”, entre outras. Esse artigo não tem como intuito resolver todas suas dúvidas, mas esclarecer alguns pontos que provavelmente você não ouviu ainda.
 
+## Sumário
+- [Qual a melhor IDE/Editor de texto para desenvolver aplicações em Python?](#qual-a-melhor-ideeditor-de-texto-para-desenvolver-aplicações-em-python)
+- [Quais são os cursos de Python?](#quais-são-os-cursos-de-python)
+- [Quais são os tutoriais de Python?](#quais-são-os-tutoriais-de-python)
+- [Onde colocar minhas perguntas?](#onde colocar minhas perguntas)
+- [Como fazer uma pergunta?](#como-fazer-uma-pergunta)
+- [O framework “x” funciona?](#o-framework-x-funciona)
+- [Python tem certificação?](#python-tem-certificação)
+- [Por onde começo com Python?](#por-onde-começo-com-python)
+- [Como melhorar minhas habilidades com Python?](#como-melhorar-minhas-habilidades-com-python)
+- [O que Python pode fazer?](#o-que-python-pode-fazer)
+- [Qual melhor sistema operacional para rodar Python?](#qual-melhor-sistema-operacional-para-rodar-python)
+- [Pra quem está iniciando, é melhor usar qual versão do Python?](#pra-quem-está-iniciando-é-melhor-usar-qual-versão-do-Python)
+- [Por que se chama Python?](#por-que-se-chama-python)
+- [Pode me recomendar livros para estudar?](#pode-me-recomendar-livros-para-estudar)
+- [Não sou programador e vou estudar Python, consigo um emprego?](#não-sou-programador-e-vou-estudar-python-consigo-um-emprego)
+- [Preciso saber usar Github para aprender Python?](#preciso-saber-usar-github-para-aprender-python)
+- [Tem como programar para Web com Python?](#tem-como-programar-para-web-com-python)
+
 “Qual a melhor IDE/Editor de texto para desenvolver aplicações em Python?”
 --------------------------------------------------------------------------
 
